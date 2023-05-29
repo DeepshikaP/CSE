@@ -1,4 +1,4 @@
-print("CELSIUS             FAHRENHEIT")
+print("CELSIUS""\t""FAHRENHEIT")
 for i in range(0,101,10):
     f=int(i*(9/5)+32)
-    print(" ",i,"                ",f)
+    print(" ",i," \t ",f)
