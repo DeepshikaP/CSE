@@ -20,4 +20,3 @@ elif(a<60 and g=='M'):
     print(interest_calculation(p,t,r))
 else:
     print("invalied")
-
