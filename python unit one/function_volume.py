@@ -62,4 +62,3 @@ elif(n==5):
     b=float(input("enter base"))
     s1=float(input("enter side"))
     triangular(b,h,l,s1)
-    
